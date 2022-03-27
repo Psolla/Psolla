@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Psolla
+- 👀 I’m interested in basketball, series and programming.
+- 🌱 I’m currently learning PHP, Java, JavaScript, CSS and HTML
+- 📫 You can contact me through my email: pedrosolla2004@gmail.com or through my Twitter @Psollaa
