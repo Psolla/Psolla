@@ -1,6 +1,6 @@
 # Hello World
--😎 Me chamo Pedro Solla e tenho 18 anos. <br>
--⌨️ Estou cursando Análise e Desenvolvimento de Sistemas na faculdade FAM. 
+Me chamo Pedro Solla e tenho 18 anos. <br>
+Estou cursando Análise e Desenvolvimento de Sistemas na faculdade FAM. 
 
 Algumas linguagens que eu conheço 👇
 <div style="display: inline_block">
