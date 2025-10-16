@@ -1,8 +1,10 @@
-# Hello World
+<div align="center">### Sobre mim
 Me chamo Pedro Solla e tenho 21 anos. <br>
 Sou formado em Análise e Desenvolvimento de Sistemas. <br> 
 Estou ingressando e me desenvolvendo na área de QEA. <br>
-##
+##</div>
+
+### Experiência corporativa 
 
 ### Linguagens de programação que eu utilizo: 👇
 <div style="display: inline_block">
